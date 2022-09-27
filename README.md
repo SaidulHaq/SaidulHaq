@@ -1,4 +1,4 @@
-<p><img align="center" alt="gif" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/rdm-g.gif" width="80%" height="auto"/></p>
+<p><img align="center" alt="gif" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/rdm-g.gif" width="100%" height=""/></p>
 
 <h1 align="center">Hi 👋, I'm Sadi</h1>
 
