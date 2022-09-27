@@ -1,3 +1,5 @@
+<p><img align="center" alt="gif" src="" width="500" height="320"/>gif</p>
+
 <h1 align="center">Hi 👋, I'm Sadi</h1>
 
 Young, enthusiastic, and self-motivated with a bachelor’s degree in Information Technology. Identifying innovative approaches and improved solutions to business challenges both motivate and drive me. Observation, inspiration, and determination are my foundation for success. My philosophy is that introducing fresh perspectives and new techniques allow businesses to evolve and grow.
@@ -5,7 +7,7 @@ Young, enthusiastic, and self-motivated with a bachelor’s degree in Informatio
 🌱I’m currently learning Software Manual and Automation Testing. <br>
 💫Besides that i have experienced as web developer and designer with basic knowledge of data analysis.
 
-<h1 align="center">-_-</h1>
+<h1 align="center">--</h1>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/) 
