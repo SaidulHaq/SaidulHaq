@@ -1,7 +1,9 @@
-# 💫: 
+<h1 align="center">Hi 👋, I'm Sadi</h1>
+
 Young, enthusiastic, and self-motivated with a bachelor’s degree in Information Technology. Identifying innovative approaches and improved solutions to business challenges both motivate and drive me. Observation, inspiration, and determination are my foundation for success. My philosophy is that introducing fresh perspectives and new techniques allow businesses to evolve and grow.
 
-🌱 I’m currently learning SQA & Cyber Security.
+🌱I’m currently learning Software Manual and Automation Testing. <br>
+💫Besides that i have experienced as web developer and designer with basic knowledge of data analysis.
 
 <h1 align="center">-_-</h1>
 
