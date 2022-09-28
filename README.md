@@ -54,7 +54,7 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 
 
 ## Socials:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SaidulHaq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]()
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white)]()
