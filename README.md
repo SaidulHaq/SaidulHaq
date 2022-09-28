@@ -52,14 +52,11 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
-
 ## Socials:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SaidulHaq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]()
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)]()
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
