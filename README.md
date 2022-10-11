@@ -26,6 +26,7 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%D24939.svg?style=flat&logo=Jenkins&logo=Jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JMeter-%D24939.svg?style=flat&logo=JMeter&logo=JMeter&logoColor=white)
 
 #### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
