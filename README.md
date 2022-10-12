@@ -1,7 +1,7 @@
 <p><img align="center" alt="gif" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/rdm-g.gif" width="100%" height="auto"/></p>
 
 ### Hi there, I'm Sadi 👋 <br/>
-a youthful, self-motivated IT graduate. I'm constantly inspired and driven to develop fresh approaches and improved fixes for business challenges. My philosophy is that, introducing fresh perspectives and new techniques allow businesses to evolve and grow.<br/>
+Young, enthusiastic, and self-motivated QA with a bachelor's degree in Information Technology. Trained and proficient in both manual and automation software testing. Passionate about utilizing SQA best practices to enhance software quality and customer satisfaction.<br/>
 
 Currently i'm learning manual and automated software testing. In addition, I have experience as a web developer, system analyst and have a solid knowledge of data analysis.
 
@@ -26,7 +26,7 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%D24939.svg?style=flat&logo=Jenkins&logo=Jenkins&logoColor=white)
-![Jenkins](https://img.shields.io/badge/JMeter-%D24939.svg?style=flat&logo=JMeter&logo=JMeter&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%D24939.svg?style=flat&logo=JMeter&logo=JMeter&logoColor=white)
 
 #### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
