@@ -58,9 +58,6 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f)
 
-## Graph:
-[![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -69,6 +66,9 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
+## Graph:
+[![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=8)](https://visitcount.itsvg.in)
