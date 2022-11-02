@@ -60,15 +60,15 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaidulHaq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## Graph:
-[![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)]
+![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=8)](https://visitcount.itsvg.in)
