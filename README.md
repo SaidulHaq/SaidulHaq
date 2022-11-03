@@ -72,12 +72,10 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sayeedsadi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)]()
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+8801300079355)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulHaq&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=SaidulHaq&show_icons=true&theme=merko&hide_border=false&include_all_commits=false&count_private=false)![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulHaq&langs_count=8&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---[](https://github-readme-streak-stats.herokuapp.com/?user=SaidulHaq&theme=merko&hide_border=false)--->
 
 ## GitHub Trophies:
