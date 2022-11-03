@@ -1,5 +1,10 @@
 <p><img align="center" alt="gif" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/gg.gif" width="100%" height="auto"/></p>
 
+![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=8)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{SaidulHaq}1212%2Fhit-counter)
+
+---
+
 ### Hi there, I'm Sadi👋 <br/>
 a young, enthusiastic, and self-motivated QA with a bachelor's degree in Information Technology. Trained and proficient in both manual and automation software testing. Passionate about utilizing SQA best practices to enhance software quality and customer satisfaction.<br/>
 
@@ -11,7 +16,7 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -23,26 +28,19 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 
 #### Tools:
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000?style=flat&logo=wix&logoColor=white)
 
 #### SQA:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%D24939.svg?style=flat&logo=Jenkins&logo=Jenkins&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-%D24939.svg?style=flat&logo=JMeter&logo=JMeter&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-orange?style=flat&logo=Apache&logoColor=white)
 
 #### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
-
-#### IDE:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
 
 #### Data Analysis:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -56,21 +54,34 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 
+#### IDE:
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
+
+#### Operating System:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 ## Socials:
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SaidulHaq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sayeedsadi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)]()
+
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaidulHaq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulHaq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=card)
+![](https://github-readme-stats.vercel.app/api?username=SaidulHaq&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulHaq&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!---[](https://github-readme-streak-stats.herokuapp.com/?user=SaidulHaq&theme=merko&hide_border=false)--->
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## Graph:
 ![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=8)](https://visitcount.itsvg.in)
