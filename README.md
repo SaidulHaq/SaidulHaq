@@ -1,6 +1,6 @@
-<p><img align="center" alt="gif" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/gg.gif" width="100%" height="auto"/></p>
+<p><img align="center" alt="g bnr" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/gg.gif" width="100%" height="auto"/></p>
 
-![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=8)
+![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=3)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{SaidulHaq}1212%2Fhit-counter)
 
 ---
@@ -26,9 +26,13 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+
 #### Tools:
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000?style=flat&logo=wix&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-FF5722?style=flat&logo=Moodle&logoColor=white)
+
 
 #### SQA:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -79,7 +83,9 @@ Currently i'm learning manual and automated software testing. In addition, I hav
 <!---[](https://github-readme-streak-stats.herokuapp.com/?user=SaidulHaq&theme=merko&hide_border=false)--->
 
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=40)
 
 ## Graph:
 ![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)
+
+---
