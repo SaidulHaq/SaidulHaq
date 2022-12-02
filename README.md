@@ -8,7 +8,7 @@
 ### Hi there, I'm Sadi👋 <br/>
 a young, enthusiastic, and self-motivated QA with a bachelor's degree in Information Technology. Trained and proficient in both manual and automation software testing. Passionate about utilizing SQA best practices to enhance software quality and customer satisfaction.<br/>
 
-Currently i'm learning manual and automated software testing. In addition, I have experience as a web developer, system analyst and have a solid knowledge of data analysis.
+Currently, I'm undergoing manual and automated software testing training. In addition, I have experience as a Front-End developer, system analyst and have a solid knowledge of data analysis.
 
 ## Skills:
 
