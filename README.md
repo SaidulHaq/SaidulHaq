@@ -1,4 +1,4 @@
-<p><img align="center" alt="g bnr" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/gg.gif" width="100%" height="auto"/></p>
+<!--- p><img align="center" alt="g bnr" src="https://github.com/SaidulHaq/SaidulHaq/blob/main/gg.gif" width="100%" height="auto"/></p--->
 
 ![](https://visitcount.itsvg.in/api?id=SaidulHaq&icon=1&color=3)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{SaidulHaq}1212%2Fhit-counter) 
