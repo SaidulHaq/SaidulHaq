@@ -89,6 +89,6 @@ Currently, I'm undergoing manual and automated software testing training. In add
 ![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=40)
 
 ## Graph:
-![Sadi's github activity graph](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)
+![](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)
 
 ---
