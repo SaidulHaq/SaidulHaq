@@ -75,6 +75,7 @@ Currently, I'm undergoing manual and automated software testing training. In add
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ## Socials:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)]()
@@ -87,5 +88,3 @@ Currently, I'm undergoing manual and automated software testing training. In add
 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=40)
-
----
