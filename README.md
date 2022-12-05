@@ -88,7 +88,4 @@ Currently, I'm undergoing manual and automated software testing training. In add
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=SaidulHaq&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=40)
 
-## Graph:
-![](https://activity-graph.herokuapp.com/graph?username=SaidulHaq&theme=merko)
-
 ---
