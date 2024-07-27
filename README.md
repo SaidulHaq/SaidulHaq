@@ -6,7 +6,7 @@
 ---
 
 ### Hi there, I'm Sadi👋 <br/>
-a young, enthusiastic, and self-motivated QA with a bachelor's degree in Information Technology. Trained and proficient in both manual and automation software testing. Passionate about utilizing SQA best practices to enhance software quality and customer satisfaction.<br/>
+well trained and experienced in both manual and automation software testing, project managment and administrative works.<br/>
 
 ## Skills:
 
@@ -75,10 +75,10 @@ a young, enthusiastic, and self-motivated QA with a bachelor's degree in Informa
 ## Contacts:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidulhaq-sadi/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayeedsadi.f)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sayeedsadi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+8801300079355)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)]()
 
 ## GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=SaidulHaq&show_icons=true&theme=merko&hide_border=false&include_all_commits=false&count_private=false)![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulHaq&langs_count=8&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
